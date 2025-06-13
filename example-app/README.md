@@ -39,11 +39,11 @@ API ke config/services.php
 ],
 ```
 ## 6. Buat Controller Melalui Terminal
-Gunakan Artisan(untuk FE) untuk membuat controller Mahasiswa dan Dosen, jika php Spark serve (untuk BE)
+Gunakan Artisan(untuk FE) untuk membuat controller Mahasiswa dan Prodi, jika php Spark serve (untuk BE)
 
 ```
 php artisan make:controller MahasiswaController
-php artisan make:controller DosenController
+php artisan make:controller ProdiController
 ``` 
 ##7. Tambahkan Fungsi index di MahasiswaController
 
